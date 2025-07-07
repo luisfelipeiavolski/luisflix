@@ -1,7 +1,7 @@
 
 body {
-    color: white;
-    background: black;
+    color: rgb(14, 185, 163);
+    background: rgb(89, 64, 160);
     margin: 0px;
 font-family: "Orbitron", sans-serif;
 }
@@ -14,7 +14,7 @@ header {
 }
 
 section {
-    background: rgb(184,156,213);
+    background: rgb(129, 51, 32);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
