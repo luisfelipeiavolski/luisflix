@@ -1,20 +1,20 @@
 
 body {
-    color: rgb(185, 82, 14);
-    background: rgb(160, 78, 64);
+    color: rgb(36, 164, 168);
+    background: rgb(51, 41, 184);
     margin: 30px;
 font-family: "Orbitron", sans-serif;
 }
 
 header {
-    border-bottom: solid 2px rgb(228, 79, 42);
+    border-bottom: solid 2px rgb(15, 71, 136);
     padding: 20px;
     font-size: 32px;
-    color: rgb(228, 48, 42);
+    color: rgb(9, 37, 128);
 }
 
 section {
-    background: rgb(129, 38, 32);
+    background: rgb(12, 18, 99);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
