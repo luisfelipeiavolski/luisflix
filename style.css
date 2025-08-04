@@ -4,7 +4,9 @@ body {
     background: rgb(51, 41, 184);
     margin: 30px;
 font-family: "Orbitron", sans-serif;
+margin-bottom:  100px;
 }
+
 
 header {
     border-bottom: solid 2px rgb(15, 71, 136);
