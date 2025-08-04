@@ -13,13 +13,7 @@ header {
     color: rgb(9, 37, 128);
 }
 
-section {
-    background: rgb(12, 18, 99);
-    padding-bottom: 80px;
-    padding-top: 80px;
-    display: flex;
-    justify-content: center;
-}
+
  .chamada {
     background: rgb(184, 156, 213);
     padding-bottom: 80px;
@@ -51,4 +45,14 @@ img {
 .categoria {
     padding-left: 20px;
     padding-right: 20px;
+    margin-top: 50px;
+}
+
+.categoria-videos{
+    opacity: 1.0;
+    border: 3px solid green;
+}
+
+.categoria h2 {
+    color: rgb(42 122 228);
 }
