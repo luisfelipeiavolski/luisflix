@@ -1,7 +1,7 @@
 
 body {
-    color: rgb(36, 164, 168);
-    background: rgb(51, 41, 184);
+    color: rgb(36, 159, 168);
+    background: rgb(41, 184, 184);
     margin: 30px;
 font-family: "Orbitron", sans-serif;
 margin-bottom:  100px;
@@ -9,15 +9,15 @@ margin-bottom:  100px;
 
 
 header {
-    border-bottom: solid 2px rgb(15, 71, 136);
+    border-bottom: solid 2px rgb(15, 98, 136);
     padding: 20px;
     font-size: 32px;
-    color: rgb(9, 37, 128);
+    color: rgb(56, 219, 206);
 }
 
 
  .chamada {
-    background: rgb(184, 156, 213);
+    background: rgb(156, 200, 213);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -52,9 +52,9 @@ img {
 
 .categoria-videos{
     opacity: 1.0;
-    border: 3px solid green;
+    border: 3px solid rgb(0, 124, 128);
 }
 
 .categoria h2 {
-    color: rgb(42 122 228);
+    color: rgb(42, 206, 228);
 }
